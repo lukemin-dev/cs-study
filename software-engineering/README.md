@@ -6,6 +6,7 @@
 
 1. `layered-architecture.md`
 2. `dry-run-idempotency.md`
+3. `validation-error-handling.md`
 
 면접에서 자주 연결되는 질문:
 
@@ -13,4 +14,3 @@
 - dry-run은 왜 필요한가요?
 - idempotency는 무엇인가요?
 - 입력 검증과 예외 처리는 어디서 해야 하나요?
-

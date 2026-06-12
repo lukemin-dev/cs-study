@@ -7,7 +7,8 @@
 1. `transaction.md`
 2. `index.md`
 3. `normalization.md`
-4. `sql-join.md`
+4. `orm-jpa.md`
+5. `sql-join.md`
 
 면접에서 자주 연결되는 질문:
 
@@ -16,4 +17,3 @@
 - 인덱스는 왜 사용하는가?
 - 정규화는 왜 필요한가?
 - JOIN은 어떤 상황에서 쓰는가?
-

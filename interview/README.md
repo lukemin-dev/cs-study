@@ -7,6 +7,7 @@
 - `one-minute-answers.md`: 1분 답변 모음
 - `project-linked-answers.md`: 내 프로젝트와 연결한 CS 답변
 - `project-cs-map.md`: GitHub 프로젝트별 CS 연결 맵
+- `backend-tracker-qa.md`: `backend-interview-tracker` 전용 면접 Q&A
 
 답변은 아래 구조로 연습합니다.
 

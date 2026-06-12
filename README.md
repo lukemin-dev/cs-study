@@ -29,14 +29,17 @@ cs-study/
 
 ## 추천 공부 순서
 
-1. `network/tcp-vs-udp.md`
-2. `operating-system/process-thread.md`
-3. `database/transaction.md`
-4. `java/oop.md`
-5. `data-structure/hash.md`
-6. `algorithm/complexity.md`
-7. `interview/project-linked-answers.md`
-8. `interview/project-cs-map.md`
+1. `interview/project-cs-map.md`
+2. `network/tcp-vs-udp.md`
+3. `operating-system/process-thread.md`
+4. `network/rest-api.md`
+5. `database/transaction.md`
+6. `database/orm-jpa.md`
+7. `database/index.md`
+8. `java/collection.md`
+9. `java/exception.md`
+10. `software-engineering/validation-error-handling.md`
+11. `interview/backend-tracker-qa.md`
 
 ## 공부 규칙
 
@@ -45,6 +48,7 @@ cs-study/
 - 가능하면 내 프로젝트와 연결합니다.
 - 마지막에는 30초 면접 답변을 적습니다.
 - 이해가 안 된 부분은 `TODO`로 남기고 나중에 다시 봅니다.
+- 한 개념을 최소 하나의 내 프로젝트와 연결합니다.
 
 ## 내 프로젝트와 연결할 기준
 
@@ -69,4 +73,17 @@ file-organizer-agent
 
 codetree / 2-
 -> 알고리즘 풀이, 언어 기본기, 시간복잡도 연습
+```
+
+## 깊이 보강 우선순위
+
+```text
+1. backend-interview-tracker
+   REST API, JPA, Transaction, Exception Handling, Validation, Test
+
+2. multichat-java
+   TCP, Socket, Thread, Message Framing, Concurrent Collection
+
+3. seo-automation-system / file-organizer-agent
+   File I/O, Automation, Dry-run, Logging, Reproducibility
 ```

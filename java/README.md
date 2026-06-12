@@ -17,4 +17,3 @@ Java는 `multichat-java` 프로젝트와 직접 연결되는 언어 기본기 �
 - List, Set, Map의 차이는 무엇인가?
 - 예외 처리는 왜 필요한가?
 - Thread와 ExecutorService는 어떤 차이가 있는가?
-
