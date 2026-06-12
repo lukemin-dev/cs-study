@@ -32,14 +32,19 @@ cs-study/
 1. `interview/project-cs-map.md`
 2. `network/tcp-vs-udp.md`
 3. `operating-system/process-thread.md`
-4. `network/rest-api.md`
-5. `database/transaction.md`
-6. `database/orm-jpa.md`
-7. `database/index.md`
-8. `java/collection.md`
-9. `java/exception.md`
-10. `software-engineering/validation-error-handling.md`
-11. `interview/backend-tracker-qa.md`
+4. `network/socket.md`
+5. `network/tcp-message-framing.md`
+6. `operating-system/thread-pool.md`
+7. `operating-system/synchronization.md`
+8. `network/rest-api.md`
+9. `database/transaction.md`
+10. `database/orm-jpa.md`
+11. `database/index.md`
+12. `java/collection.md`
+13. `java/exception.md`
+14. `software-engineering/validation-error-handling.md`
+15. `interview/backend-tracker-qa.md`
+16. `interview/multichat-java-qa.md`
 
 ## 공부 규칙
 
